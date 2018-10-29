@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/res">
+        <file>assign.png</file>
+        <file>car.png</file>
+        <file>driver.png</file>
+        <file>driver_white.png</file>
+        <file>car_white.png</file>
+        <file>car_blue.png</file>
+        <file>car_green.png</file>
+        <file>driver_green.png</file>
+        <file>assign_green.png</file>
+    </qresource>
+</RCC>
